@@ -1,2 +1,0 @@
-# city_name_project
-html_teg_uses_project
